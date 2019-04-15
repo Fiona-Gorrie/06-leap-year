@@ -1,5 +1,4 @@
 def is_leap_year(year):
-    def is_leap(year):
     if year % 400 == 0:
         return True
     if year % 100 == 0:
